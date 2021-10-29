@@ -10,3 +10,11 @@ img {
   width: 150px;
   margin: auto;
 }
+.effect {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+}
+.effect:hover {
+  text-decoration: none;
+  text-decoration-style: none;
+}
