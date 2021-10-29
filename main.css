@@ -2,13 +2,9 @@ div {
   font-family: "Source Code Pro";
   padding: 20px;
 }
-img-div {
-  display: inline-block;
-}
 img {
   border-radius: 50%;
   width: 150px;
-  margin: auto;
 }
 .effect {
   text-decoration: underline;
